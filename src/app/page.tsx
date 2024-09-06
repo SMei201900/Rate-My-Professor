@@ -12,7 +12,7 @@ export default function Home() {
 		height: "100vh",
 		textAlign: "center",
 		border: "1px solid #ccc",
-		backgroundColor: "linear-gradient(to bottom, #004CC5, #87CEEB)",
+		backgroundColor: "linear-gradient(to bottom, #004CC6, #87CEEB)",
 		color: "white",
 		boxSizing: "border-box",
 	};
